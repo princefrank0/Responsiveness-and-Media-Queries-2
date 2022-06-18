@@ -207,7 +207,7 @@ p {
   margin-left: -1%;
   margin-top: 10em;
 }
-@media (max-width:375px) {
+@media (max-width:500px) {
   main .first, .second {
     height: auto;
     display: flex;
